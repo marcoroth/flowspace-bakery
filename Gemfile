@@ -85,3 +85,5 @@ group :test do
 end
 
 gem "cable_ready", "5.0.0.pre3"
+
+gem "webpacker", "~> 5.4"
